@@ -1,4 +1,4 @@
-# Sistema de Tandas en CodeIgniter
+# Sistema de Tandas en Codeigniter
 
 ## Descripción
 
